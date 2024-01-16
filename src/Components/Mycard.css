@@ -1,0 +1,7 @@
+.mycard {
+  min-width: 300px;
+  height: 400px;
+  background-color: rgb(171, 220, 219);
+  margin: 10px;
+  color: white;
+}
